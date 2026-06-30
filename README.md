@@ -1,4 +1,4 @@
-# Hi there, I'm Krishnam Patil
+# Hi, I'm Krishnam Patil
 
 ### 🚀 About Me
 I am a passionate developer currently focusing on building robust web applications and exploring intelligent data-driven solutions. I love bridging the gap between clean backend architecture and intuitive user experiences.
